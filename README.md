@@ -60,6 +60,7 @@ gcc main.c -o atm
 ---
 
 ## Sample Output
+```bash
 Enter your PIN: ****
 
 ====== ATM MENU ======
@@ -68,6 +69,8 @@ Enter your PIN: ****
 3. Withdraw Money
 4. Exit
 Enter your choice:
+```
+---
 
 ## **👨‍💻 Author**
 
