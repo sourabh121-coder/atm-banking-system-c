@@ -56,8 +56,10 @@ ATM-System/
 ```bash
 gcc main.c -o atm
 ./atm
+```
+---
 
-### **Sample Output**
+## Sample Output
 Enter your PIN: ****
 
 ====== ATM MENU ======
@@ -67,7 +69,7 @@ Enter your PIN: ****
 4. Exit
 Enter your choice:
 
-### **👨‍💻 Author**
+## **👨‍💻 Author**
 
 Sourabh Jha
 B.Tech (CSE) — The Assam Kaziranga University
